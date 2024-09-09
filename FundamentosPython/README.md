@@ -9,11 +9,11 @@
 - [Enteros, flotantes y booleanos](#enteros-flotantes-y-booleanos)
 - [`print`](#print)
 - [Operaciones de entrada/salida en consola](#operaciones-de-entrada-salida-en-consola)
-
+- [Conceptos](#conceptos)
 ---
 
 ## ¿Qué es Python? <a name="que-es-python"></a>
-Python es un lenguaje de programación de alto nivel, interpretado y de propósito general, creado por Guido van Rossum y lanzado por primera vez en 1991.
+Python es un lenguaje de programación de alto nivel, interpretado y de propósito general, creado por Guido van Rossum y lanzado por primera vez en 1991. Es conocido por su simplicidad y legibilidad, lo que lo hace accesible tanto para principiantes como para programadores experimentados. Además, Python es utilizado en una amplia variedad de campos como desarrollo web, ciencia de datos, inteligencia artificial, automatización, y más.
 ## Principales características de Python: <a name="Principales-características-Python"></a>
 - **Interpretado**: Python no requiere compilación previa, ya que el intérprete ejecuta el código línea por línea, lo que facilita la depuración y el desarrollo rápido.
 - **Sintaxis sencilla y legible**: Su diseño promueve escribir código limpio y fácil de entender, lo que reduce la complejidad y facilita el mantenimiento. (**Sintaxis:**  se refiere a las reglas que dictan cómo debe estructurarse el código para que sea reconocido y ejecutado correctamente.)
@@ -36,3 +36,4 @@ Python es un lenguaje de programación de alto nivel, interpretado y de propósi
 ## Operaciones de entrada/salida en consola <a name="operaciones-de-entrada-salida-en-consola"></a>
 *(Aquí va la información sobre las operaciones de entrada/salida en consola)*
 
+## Conceptos <a name="conceptos"></a>
