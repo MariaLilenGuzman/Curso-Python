@@ -1,9 +1,38 @@
 ## Fundamentos de python
 
 ### Contenidos:
-- Conceptos basicos de programación
-- Manipulación de cadenas de textos
-- Enteros, flotantes y booleanos
-- print
-- Operaciones de entrada/salida en consola
-  
+# Contenido
+
+- [¿Qué es Python?](#que-es-python)
+- [Principales características de Python](#Principales-características-Python)
+- [Manipulación de cadenas de textos](#manipulacion-de-cadenas-de-textos)
+- [Enteros, flotantes y booleanos](#enteros-flotantes-y-booleanos)
+- [`print`](#print)
+- [Operaciones de entrada/salida en consola](#operaciones-de-entrada-salida-en-consola)
+
+---
+
+## ¿Qué es Python? <a name="que-es-python"></a>
+Python es un lenguaje de programación de alto nivel, interpretado y de propósito general, creado por Guido van Rossum y lanzado por primera vez en 1991.
+## Principales características de Python: <a name="Principales-características-Python"></a>
+- **Interpretado**: Python no requiere compilación previa, ya que el intérprete ejecuta el código línea por línea, lo que facilita la depuración y el desarrollo rápido.
+- **Sintaxis sencilla y legible**: Su diseño promueve escribir código limpio y fácil de entender, lo que reduce la complejidad y facilita el mantenimiento. (**Sintaxis:**  se refiere a las reglas que dictan cómo debe estructurarse el código para que sea reconocido y ejecutado correctamente.)
+    
+- **Multiparadigma**: Soporta programación orientada a objetos, programación imperativa y funcional.
+- **Tipado dinámico**: No es necesario declarar el tipo de una variable antes de usarla; Python lo asigna automáticamente según el valor asignado.
+- **Gran comunidad y ecosistema**: Tiene una amplia comunidad de desarrolladores y bibliotecas (como NumPy, Pandas, Django, etc.) que extienden sus funcionalidades en diversas áreas.
+
+---
+
+## Manipulación de cadenas de textos <a name="manipulacion-de-cadenas-de-textos"></a>
+*(Aquí va la información sobre manipulación de cadenas de textos)*
+
+## Enteros, flotantes y booleanos <a name="enteros-flotantes-y-booleanos"></a>
+*(Aquí va la información sobre enteros, flotantes y booleanos)*
+
+## `print` <a name="print"></a>
+*(Aquí va la información sobre el uso de `print`)*
+
+## Operaciones de entrada/salida en consola <a name="operaciones-de-entrada-salida-en-consola"></a>
+*(Aquí va la información sobre las operaciones de entrada/salida en consola)*
+
