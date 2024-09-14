@@ -54,6 +54,7 @@ En este ejemplo, hemos creado dos variables:
 Para asignar un valor a una variable en Python, simplemente usa el signo igual (=). El lado izquierdo del = es el nombre de la variable, y el lado derecho es el valor que quieres almacenar.
 
 ### Tipos de datos que puede almacenar una variable:
+
     - Números enteros (int): como 10, -5.
     - Números de punto flotante (float): como 3.14, -0.01.
     - Cadenas de texto (str): como "Hola", 'Lilen'.
@@ -128,7 +129,7 @@ Los métodos son funciones asociadas a tipos de variables. En el caso de las cad
 ## Enteros, flotantes y booleanos <a name="enteros-flotantes-y-booleanos"></a>
 *(Aquí va la información sobre enteros, flotantes y booleanos)*
 
-## print` <a name="print"></a>
+## print <a name="print"></a>
 *(Aquí va la información sobre el uso de `print`)*
 
 ## Operaciones de entrada/salida en consola <a name="operaciones-de-entrada-salida-en-consola"></a>
