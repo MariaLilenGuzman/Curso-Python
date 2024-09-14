@@ -55,10 +55,10 @@ Para asignar un valor a una variable en Python, simplemente usa el signo igual (
 
 ### Tipos de datos que puede almacenar una variable:
 
-    - Números enteros (int): como 10, -5.
-    - Números de punto flotante (float): como 3.14, -0.01.
-    - Cadenas de texto (str): como "Hola", 'Lilen'.
-    - Booleanos (bool): valores True o False.
+- Números enteros (int): como 10, -5.
+- Números de punto flotante (float): como 3.14, -0.01.
+- Cadenas de texto (str): como "Hola", 'Lilen'.
+- Booleanos (bool): valores True o False.
 
 **Las variables permiten reutilizar datos y trabajar con ellos a lo largo del código de manera flexible.**
 ## Manipulación de cadenas de textos <a name="manipulacion-de-cadenas-de-textos"></a>
