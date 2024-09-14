@@ -113,10 +113,22 @@ También puedes acceder a los elementos de una cadena desde el final usando índ
 
 print(name[-1])  # Devuelve 'o'
 
+### Buenas prácticas
+
+Es recomendable que si decides usar comillas simples para cadenas, mantengas ese estilo a lo largo del código. Lo mismo aplica si prefieres usar comillas dobles. Esto mejora la coherencia y legibilidad del código.
+
+### Métodos de cadenas 
+
+Los métodos son funciones asociadas a tipos de variables. En el caso de las cadenas, algunos de los métodos más útiles son:
+
+- lower(): Convierte toda la cadena a minúsculas.
+- upper(): Convierte toda la cadena a mayúsculas.
+- strip(): Elimina los espacios en blanco al inicio y al final de la cadena.
+
 ## Enteros, flotantes y booleanos <a name="enteros-flotantes-y-booleanos"></a>
 *(Aquí va la información sobre enteros, flotantes y booleanos)*
 
-## `print` <a name="print"></a>
+## print` <a name="print"></a>
 *(Aquí va la información sobre el uso de `print`)*
 
 ## Operaciones de entrada/salida en consola <a name="operaciones-de-entrada-salida-en-consola"></a>
