@@ -5,6 +5,7 @@
 
 - [¿Qué es Python?](#que-es-python)
 - [Principales características de Python](#Principales-características-Python)
+- [¿Qué son las variables?](#variables)
 - [Manipulación de cadenas de textos](#manipulacion-de-cadenas-de-textos)
 - [Enteros, flotantes y booleanos](#enteros-flotantes-y-booleanos)
 - [`print`](#print)
@@ -22,8 +23,43 @@ Python es un lenguaje de programación de alto nivel, interpretado y de propósi
 - **Tipado dinámico**: No es necesario declarar el tipo de una variable antes de usarla; Python lo asigna automáticamente según el valor asignado.
 - **Gran comunidad y ecosistema**: Tiene una amplia comunidad de desarrolladores y bibliotecas (como NumPy, Pandas, Django, etc.) que extienden sus funcionalidades en diversas áreas.
 
----
+## ¿Qué son las variables? <a name="variables"></a>
+Las variables en programación son contenedores que almacenan datos o valores que se pueden usar y manipular a lo largo de un programa. En Python, las variables se crean al asignar un valor a un nombre utilizando el signo igual (=). A diferencia de algunos lenguajes de programación, en Python no necesitas declarar el tipo de dato de una variable, ya que es un lenguaje dinámico.
 
+nombre = "Lilen"
+
+edad = 30
+
+En este ejemplo, hemos creado dos variables:
+
+- nombre almacena una cadena de texto ("Lilen").
+- edad almacena un número entero (30).
+
+### Reglas para nombrar variables:
+1. No pueden comenzar con un número. El nombre debe empezar con una letra o un guion bajo (_).
+
+    - Correcto: nombre, _edad
+    - Incorrecto: 1edad
+
+2. No deben contener espacios. Si el nombre tiene varias palabras, se puede usar la convención de snake_case (separar palabras con guion bajo).
+
+    - Correcto: mi_variable
+    - Incorrecto: mi variable
+
+3. No pueden ser palabras reservadas del lenguaje. Palabras como if, else, while, class no pueden usarse como nombres de variables porque tienen un significado especial en Python.
+
+4. Sensibles a mayúsculas y minúsculas. Python distingue entre mayúsculas y minúsculas, por lo que nombre y Nombre son dos variables diferentes.
+
+### Asignación de valores a variables:
+Para asignar un valor a una variable en Python, simplemente usa el signo igual (=). El lado izquierdo del = es el nombre de la variable, y el lado derecho es el valor que quieres almacenar.
+
+### Tipos de datos que puede almacenar una variable:
+    - Números enteros (int): como 10, -5.
+    - Números de punto flotante (float): como 3.14, -0.01.
+    - Cadenas de texto (str): como "Hola", 'Lilen'.
+    - Booleanos (bool): valores True o False.
+
+**Las variables permiten reutilizar datos y trabajar con ellos a lo largo del código de manera flexible.**
 ## Manipulación de cadenas de textos <a name="manipulacion-de-cadenas-de-textos"></a>
 *(Aquí va la información sobre manipulación de cadenas de textos)*
 
