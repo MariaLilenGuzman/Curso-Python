@@ -61,7 +61,57 @@ Para asignar un valor a una variable en Python, simplemente usa el signo igual (
 
 **Las variables permiten reutilizar datos y trabajar con ellos a lo largo del código de manera flexible.**
 ## Manipulación de cadenas de textos <a name="manipulacion-de-cadenas-de-textos"></a>
-*(Aquí va la información sobre manipulación de cadenas de textos)*
+
+Uno de los tipos más comunes en Python es el string o cadena de caracteres, que se puede representar de tres formas diferentes:
+1. Usando comillas dobles:
+
+   nombre = "Lilen"
+2. Usando comillas simples:
+
+   nombre = 'Lilen'
+3. Usando comillas triples para cadenas multilínea:
+
+   texto = '''Esto es
+   una cadena
+   multilínea'''
+ 
+### Concatenación
+
+Podemos sumar cadenas usando el operador `+`:
+
+saludo = "Hola" + " " + "Lilen"
+
+print(saludo)  # Resultado: "Hola Lilen"
+
+### Repetición de cadenas
+
+Es posible repetir una cadena usando el operador *:
+
+nombre = "hola"
+
+print(3 * nombre)  # Resultado: "holaholahola"
+
+### Longitud de una cadena
+
+Para obtener la longitud de una cadena (el número de caracteres), se usa la función len():
+
+nombre = "Lilen"
+
+print(len(nombre))  # Resultado: 5
+
+### Indexación
+
+Las cadenas en Python son indexadas, lo que significa que cada carácter tiene una posición numérica. La primera posición es 0 (cero).
+
+Ejemplo de indexación:
+
+name = "hola mundo"
+
+print(name[0])  # Devuelve 'h'
+
+También puedes acceder a los elementos de una cadena desde el final usando índices negativos. El último carácter es el índice -1:
+
+print(name[-1])  # Devuelve 'o'
 
 ## Enteros, flotantes y booleanos <a name="enteros-flotantes-y-booleanos"></a>
 *(Aquí va la información sobre enteros, flotantes y booleanos)*
